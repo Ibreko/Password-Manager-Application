@@ -23,6 +23,5 @@ This Python application provides a simple and secure way to manage passwords. It
 3. Log in with existing credentials or register a new account.
 4. Add, view, delete, or copy passwords as needed.
 
----
 
-Feel free to adjust the description as needed to better fit your preferences or provide more context about the application.
+
